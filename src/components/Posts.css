@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+.blog-wrapperr {
+    display: flex;
+    margin-left: 80px;
+    font-size: large;
+    padding: 30px;
+    justify-content: center;
+
+    h3{
+      text-align: center;
+      background-color: gray;
+      border-radius: 10px;
+    }
+  
+    .blog-details {
+      display: flex;
+      flex-direction: column;
+      margin-right: 20px;
+    }
+  }
+
+
+.edit-blog {
+    display:contents;
+    margin-top: 10px;
+    input{
+        height: 50px;
+    }
+    textarea{
+        height: 150px;
+    }
+  } 
+
+
+.h2 {
+  width: 200px;
+}
+
+
+

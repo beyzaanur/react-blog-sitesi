@@ -1,38 +1,175 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Indie+Flower&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pixelify+Sans:wght@400..700&display=swap');
+
+
+
+
+
+* {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/*footer*/
+.footer {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: space-between;
+  padding: 5px 80px;
+  padding-top: 20px;
+  height: 75px;
+  bottom: 0px;
+  position: relative;
+  background: #292a2f;
+}
+
+
+.leftSide2 h1 {
+  background: #292a2f;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.leftSide2 h2 {
+  background: #292a2f;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.leftSide2 h1 button {
+  text-align: left;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: #292a2f;
+  height: 5px;
+  width: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+
+.leftSide2 h2 button {
+  text-align: left;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: #292a2f;
+  height: 5px;
+  width: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+
+.rightSide2 h1 {
+  background: #292a2f;
+  text-align: right;
+  margin-right: 5px;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  transition: .3;
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+
+.center p {
+  background: #292a2f;
+  font-weight: 400;
+  position: relative;
+  color: white;
+}
+
+
+/*pages css*/
+.contact {
+  width: 100%;
+  height: 130vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.posts {
+  width: 100%;
+  height: 130vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile {
+  width: 100%;
+  height: 130vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+.Toastify {
+  button {
+    width: auto;
+    height: auto;
   }
 }
+
+
+
+.blog-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .blog-card {
+    width: 300px;
+  }
+}
+
+.text-length {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+
+/*hakkında*/
+.nes-balloon p {
+  text-align: center;
+  position: absolute;
+}
+
+
+.d-flex {
+  padding: 10px;
+  width: 50rem;
+  .butto{
+    width: 3rem;
+  }
+}
+
