@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-blog-sitesi/static/css/main.49b58049.css",
+    "main.js": "/react-blog-sitesi/static/js/main.45a77320.js",
+    "static/media/forest.png": "/react-blog-sitesi/static/media/forest.bac65bb139f6d785a5a2.png",
+    "static/media/anime.jpg": "/react-blog-sitesi/static/media/anime.b61dbca3a366ad6ed595.jpg",
+    "static/media/sehir.jpg": "/react-blog-sitesi/static/media/sehir.924585d259b0e22a3b2f.jpg",
+    "static/media/demonslayer.jpg": "/react-blog-sitesi/static/media/demonslayer.18755bfe3becc083940c.jpg",
+    "index.html": "/react-blog-sitesi/index.html",
+    "main.49b58049.css.map": "/react-blog-sitesi/static/css/main.49b58049.css.map",
+    "main.45a77320.js.map": "/react-blog-sitesi/static/js/main.45a77320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b58049.css",
+    "static/js/main.45a77320.js"
+  ]
+}
