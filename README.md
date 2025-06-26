@@ -1,5 +1,5 @@
 # Pojemi oluşturduğum linkten deneyebilirsiniz
-DİNAMİK BİR SİTE OLMADIĞI İÇİN GİRİŞ BİLGİLERİNİ KODLAR ARASINDAN ÇEKTİM BİLGİLERİ BURAYA YAZIYORUM:
+GİRİŞ BİLGİLERİNİ KODLAR ARASINDAN ÇEKTİM BİLGİLERİ BURAYA YAZIYORUM:
 e-posta : asd@asd   şifre: 123 
 # LİNK: https://beyzaanur.github.io/react-blog-sitesi/
 
